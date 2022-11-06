@@ -2,3 +2,7 @@
 *.css.map
 *.sass.map
 *.scss.map
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
